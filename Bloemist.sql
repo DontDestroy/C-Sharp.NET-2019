@@ -1,6 +1,6 @@
 USE [master]
 GO
-/****** Object:  Database [Bloemist]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Database [Bloemist]    Script Date: 30/11/2021 07:29:30 ******/
 CREATE DATABASE [Bloemist]
  CONTAINMENT = NONE
  ON  PRIMARY 
@@ -80,7 +80,7 @@ ALTER DATABASE [Bloemist] SET QUERY_STORE = OFF
 GO
 USE [Bloemist]
 GO
-/****** Object:  Table [dbo].[Bestelling]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[Bestelling]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -97,7 +97,7 @@ CREATE TABLE [dbo].[Bestelling](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[BestelRegel]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[BestelRegel]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -114,7 +114,7 @@ CREATE TABLE [dbo].[BestelRegel](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Leverancier]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[Leverancier]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -130,7 +130,7 @@ CREATE TABLE [dbo].[Leverancier](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Offerte]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[Offerte]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -148,7 +148,7 @@ CREATE TABLE [dbo].[Offerte](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Plant]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[Plant]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -168,7 +168,7 @@ CREATE TABLE [dbo].[Plant](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[PlantCategorie]    Script Date: 29/11/2021 16:27:03 ******/
+/****** Object:  Table [dbo].[PlantCategorie]    Script Date: 30/11/2021 07:29:30 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

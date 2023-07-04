@@ -15,7 +15,7 @@ This is a growing organisme :-), meaning, it is never finished.
 
 Proposals, questions, remarks or even found errors can be sent towards Vincent@CopyPaste.be or phone 0475/97.63.80
 - You are a contributor, but don't change the content of this repository.
+- There is also a discussion page created for this repository, you can also place remarks there.
 
 Enjoy
-
 Vincent Van De Walle

@@ -20,12 +20,9 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 Enjoy
 Vincent Van De Walle
 
-Changes at 20230804.
+Changes between 20230804 and 20230809
 - 00102-s, t and u
 - 00103-a till h
-
-Changes at 20230805
 - 00031-a till e
-
-Changes at 20230808
 - 00050-a till m
+- 00305-a till h

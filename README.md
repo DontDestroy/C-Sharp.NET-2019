@@ -21,9 +21,9 @@ Enjoy
 Vincent Van De Walle
 
 Changes between 20230804 and 20230811
-- 00102-s, t and u
-- 00103-a till h
-- 00031-a till e
-- 00050-a till m
-- 00104-a till (busy doing this)
-- 00305-a till h
+- 00102-s, t and u (Classes)
+- 00103-a till h (Classes)
+- 00031-a till e (Forms)
+- 00050-a till m (Error handling)
+- 00104-a till (busy doing this) (Classes)
+- 00305-a till h (Textfiles)

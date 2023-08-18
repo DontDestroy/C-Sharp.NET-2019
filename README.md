@@ -20,7 +20,7 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 Enjoy
 Vincent Van De Walle
 
-Changes between 20230804 and 20230811
+Changes between 20230804 and 20230901
 - 00102-s, t and u (Classes)
 - 00103-a till h (Classes)
 - 00031-a till e (Forms)

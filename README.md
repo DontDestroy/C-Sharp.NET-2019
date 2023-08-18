@@ -25,5 +25,5 @@ Changes between 20230804 and 20230811
 - 00103-a till h (Classes)
 - 00031-a till e (Forms)
 - 00050-a till m (Error handling)
-- 00104-a till (busy doing this) (Classes)
+- 00104-a till c (Classes Polymorphism)
 - 00305-a till h (Textfiles)

@@ -27,4 +27,5 @@ Changes between 20230804 and 20230901
 - 00050-a till m (Error handling)
 - 00104-a till c (Classes Polymorphism)
 - 00105-a till b (Interfaces)
+- 00106-a (Events)
 - 00305-a till h (Textfiles)

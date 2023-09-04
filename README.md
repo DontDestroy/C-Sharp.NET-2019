@@ -21,7 +21,7 @@ Enjoy
 Vincent Van De Walle
 
 Changes between 20230804 and 20230901
-- 00060-a till l (WPF changed, added more comments)
+- 00060-a till m (WPF changed, added more comments)
 - 00102-s, t and u (Classes)
 - 00103-a till h (Classes)
 - 00031-a till e (Forms)

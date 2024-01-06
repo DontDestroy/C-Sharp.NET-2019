@@ -20,7 +20,7 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 Enjoy
 Vincent Van De Walle
 
-Changes between 20230804 and 20231001
+Changes between 20230804 and 20240101
 - 00060-a till n (WPF changed, added more comments)
 - 00102-s, t and u (Classes)
 - 00103-a till h (Classes)
@@ -31,3 +31,4 @@ Changes between 20230804 and 20231001
 - 00106-a (Events)
 - 00107-a till c (Error handling)
 - 00305-a till h (Textfiles)
+- 00107-b till o (Classes)

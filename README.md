@@ -21,12 +21,14 @@ Enjoy
 Vincent Van De Walle
 
 Changes between 20240101 and now 
-- 00014-a till c (Some basic forms)
+- 00014-a till k (Some basic forms)
+- 00029-a till b (String handling)
+- 00031-a till e (Forms)
+- 00039-a till d (Small games)
+- 00050-a till m (Error handling)
 - 00060-a till n (WPF changed, added more comments)
 - 00102-s, t and u (Classes)
 - 00103-a till h (Classes)
-- 00031-a till e (Forms)
-- 00050-a till m (Error handling)
 - 00104-a till c (Classes Polymorphism)
 - 00105-a till b (Interfaces)
 - 00106-a (Events)

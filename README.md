@@ -20,13 +20,16 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 Enjoy
 Vincent Van De Walle
 
-Changes between 20240101 and now 
+Added or changed between 20240101 and now 
 - 00014-a till k (Some basic forms)
+- 00016-a till k (Form properties)
+- 00017-a till e (Some basic controls)
 - 00022-e and s (StringHandling)
 - 00023-c till e (Messagebox)
 - 00029-a till b (String handling)
 - 00031-a till e (Forms)
 - 00039-a till d (Small games)
+- 00040-a till e (Collections)
 - 00050-a till m (Error handling)
 - 00060-a till n (WPF changed, added more comments)
 - 00090-a till b (Structure)
@@ -35,9 +38,16 @@ Changes between 20240101 and now
 - 00104-a till c (Classes Polymorphism)
 - 00105-a till b (Interfaces)
 - 00106-a (Events)
-- 00107-a till c (Error handling)
-- 00113 a till d (Visual inheritance)
-- 00305-a till h (Textfiles)
-- 00107-b till o (Classes)
+- 00101-a till o (Classes)
+- 00102-a till u (Classes)
+- 00107-a till d (Error handling)
+- 00109-a, d and e (Class)
 - 00109-f DeckOfCards (Classes)
+- 00110-c (Class)
+- 00111-c (Events)
+- 00113 a till d (Visual inheritance)
 - 00138-a till b (Code analysis)
+- 00305-a till h (Textfiles)
+- 00501-b (Round button)
+- 09999-b MemoryGame
+- 09999-c TrainGame

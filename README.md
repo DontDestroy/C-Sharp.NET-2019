@@ -23,7 +23,7 @@ Vincent Van De Walle
 Added or changed between 20240101 and now 
 - 00014-a till k (Some basic forms)
 - 00016-a till k (Form properties)
-- 00017-a till j (Some basic controls)
+- 00017-a till t (Some basic controls)
 - 00019-a (Methods)
 - 00022-e and s (StringHandling)
 - 00023-c till e (Messagebox)
@@ -44,13 +44,18 @@ Added or changed between 20240101 and now
 - 00107-a till d (Error handling)
 - 00109-a, c, d and e (Class)
 - 00109-f DeckOfCards (Classes)
+- 00109-g BetterCard (Classes)
 - 00110-c (Class)
 - 00111-c (Events)
+- 00112-a till e (Inheritance)
 - 00113 a till d (Visual inheritance)
+- 00114-a (Singleton)
 - 00118-e MoveIt ((Interface)
+- 00119-a PatternMaker (Polymorphism)
 - 00128-a SortablePoint (IComparable)
 - 00138-a till b (Code analysis)
 - 00305-a till h (Textfiles)
 - 00501-b (Round button)
+- 00901-j (Operator Overload)
 - 09999-b MemoryGame
 - 09999-c TrainGame

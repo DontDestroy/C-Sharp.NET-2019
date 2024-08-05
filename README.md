@@ -19,6 +19,7 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 - There is also a discussion page created for this repository, you can also place remarks there.
 
 Enjoy
+
 Vincent Van De Walle
 
 Added or changed between 20240801 and now 

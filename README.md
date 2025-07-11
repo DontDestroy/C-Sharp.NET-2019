@@ -11,6 +11,9 @@ When you download examples, please find out how to switch off the "blocked acces
 - Unblock the access to the file.
 - Then unzip (the default zip of Windows is used).
 
+Some files are new, most are very old. I do not recompile them everytime there is a new version. When .NET 4.0 is at your pc, most of the exercises will run.
+You can change the version of .NET to have the example working at your pc.
+
 Every week, examples are changed or added, depending on the progress of Vincent, who is busy to document all the stuff he has on the subject.
 This is a growing organisme :-), meaning, it is never finished.
 

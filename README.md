@@ -3,6 +3,8 @@ Copy Paste Classroom
 
 Hello all,
 
+At 02 februari 2026, the new course of C# Developer started
+
 This list of zipped examples are the latest versions of the examples seen in the courses of Visual Studio C#.NET 2019 / 2022 and later.
 - The examples are a part of the lessons.
  
@@ -16,6 +18,8 @@ You can change the version of .NET to have the example working at your pc.
 
 Every week, examples are changed or added, depending on the progress of Vincent, who is busy to document all the stuff he has on the subject.
 This is a growing organisme :-), meaning, it is never finished.
+Every change since the start of the lessons are logged here
+- 2026/02/02: xxxx
 
 Proposals, questions, remarks or even found errors can be sent towards Vincent@CopyPaste.be or phone +32 (0)475/97.63.80
 - You are not a contributor, so don't change the content of this repository.
@@ -24,6 +28,3 @@ Proposals, questions, remarks or even found errors can be sent towards Vincent@C
 Enjoy
 
 Vincent Van De Walle
-
-Added or changed between 20251001 and now 
-- The course is not started yet

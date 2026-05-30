@@ -19,8 +19,24 @@ You can change the version of .NET to have the example working at your pc.
 Every week, examples are changed or added, depending on the progress of Vincent, who is busy to document all the stuff he has on the subject.
 This is a growing organisme :-), meaning, it is never finished.
 Every change since the start of the lessons are logged here
-- 2026/02/02: xxxx
-
+- 2026/05/30:
+  - 00062-h WPFProgressBar (WPF basic)
+  - 00062-i WPFSlider (WPF basic)
+  - 00109-h Operator (Class)
+  - 09999-e Karel the Robot (full functional in java code and C#)
+  - 19991-b ADOInterop (ADO .NET old school)
+  - 20011-a RegularExpression (Textbox validator)
+  - 20011-a RegularExpressionReplace (Textbox validator)
+  - 20011-a RegularExpressionTextBox (Textbox validator)
+  - 29100-a UnderstandingPerformance (Advanced C#)
+  - 90004-a RadioButtonList (Website basics)
+  - 90004-b CheckBoxList (Website basics)
+  - 90006-a AdRotator (Website basics)
+  - 90006-b AdRotator (Website basics)
+  - 90008-a Calendar (Website basics)
+  - 90009-a Validator (Website basics)
+  - 97001-b PredictFuture (Website basics)
+ 
 Proposals, questions, remarks or even found errors can be sent towards Vincent@CopyPaste.be or phone +32 (0)475/97.63.80
 - You are not a contributor, so don't change the content of this repository.
 - There is also a discussion page created for this repository, you can also place remarks there.

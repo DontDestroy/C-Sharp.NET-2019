@@ -43,7 +43,7 @@ Every change since the start of the lessons are logged here
   - 90009-a Validator (Website basics)
   - 90012-a WebCarLoan (Website basics)
   - 90201-a Loan (Website basics)
-  - 97001-b PredictFuture (Website basics)
+  - 97001-b PredictFuture (Webservice basics)
  
 Proposals, questions, remarks or even found errors can be sent towards Vincent@CopyPaste.be or phone +32 (0)475/97.63.80
 - You are not a contributor, so don't change the content of this repository.
